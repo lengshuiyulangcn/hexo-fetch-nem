@@ -21,6 +21,6 @@ Also, the default is fread from testnet, so you may like to change to mainnet.
 
 ```yml
 isMainnet: true
-address: your_nem_address
+nem_address: your_nem_address
 ```
 
